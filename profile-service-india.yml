@@ -1,7 +1,8 @@
 
 ---
-lucky-word: Ashrith 
-my-lucky: AADHYA 
+wordConfig:
+  lucky-word: Ashrith 
+  my-lucky: AADHYA 
 
 spring:
   jpa:
