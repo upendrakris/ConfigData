@@ -1,3 +1,4 @@
 ---
-lucky-word: Irish
-my-lucky: SHILPA 
+wordConfig:
+  lucky-word: Irish 123
+  my-lucky: SHILPA 123
